@@ -2,4 +2,4 @@
 title: nnavnita's garden
 ---
 
-Work in progress. Notes will grow here over time.
+Hello! Welcome to my little corner of the internet :)
