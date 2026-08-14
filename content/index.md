@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: nnavnita's garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Work in progress. Notes will grow here over time.
