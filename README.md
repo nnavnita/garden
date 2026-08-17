@@ -13,7 +13,7 @@ npm ci
 ## Commands
 
 ```sh
-npx quartz build --serve -d docs   # local dev server
+npx quartz build --serve           # local dev server
 npm run check                       # tsc --noEmit + prettier --check
 npm run format                      # prettier --write
 npm test                            # tsx --test
