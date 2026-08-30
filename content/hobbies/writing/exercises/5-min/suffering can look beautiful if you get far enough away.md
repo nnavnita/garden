@@ -10,4 +10,4 @@ This is exactly the conclusion I came to yesterday while watching a video about 
 
 The experts argue over her cause of death, she seems to have been a young adolescent with no physical wounds or trauma. But the fact that she was buried with various artefacts suggests she was buried _alive_ as some sort of ritualistic sacrifice -- as Inca were wont to do. The clinical manner in which she and her death are regarded today brought me to the realisation that it is indeed strange how suffering can look beautiful if you can get far enough away -- a meteor strike becomes a shooting star, a tsunami becomes a tidal wave, a volcanic eruption becomes a dull glow...
 
-And an innocent child's death becomes mealtime viewing.
+_And an innocent child's death becomes mealtime viewing_.
