@@ -12,3 +12,4 @@ title: reading list
 - [ ] Empires of the word - Nicholar Ostler
 - [ ] The Good and Evil Serpent - James H Charlesworth
 - [ ] Once Upon an Algorithm - Martin Erwig
+- [ ] The Strange Case of Dr. Jekyll and Mr. Hyde - Robert Louis Stevenson ([[ hobbies/writing/exercises/5-min/my devil had been long caged | writing exercise]])
