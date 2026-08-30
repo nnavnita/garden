@@ -8,3 +8,7 @@ title: reading list
 - [ ] The Society of Literary Marauders - Sasha Wasley ([[ hobbies/writing/exercises/5-min/the decoy manuscript is complete | writing exercise]])
 - [ ] Black Convicts, How slavery shaped Australia - Santiia Chingapia
 - [ ] The Language Puzzle - Stephen Mithen
+- [ ] The Hero with a Thousand Faces - Joseph Campbell
+- [ ] Empires of the word - Nicholar Ostler
+- [ ] The Good and Evil Serpent - James H Charlesworth
+- [ ] Once Upon an Algorithm - Martin Erwig
