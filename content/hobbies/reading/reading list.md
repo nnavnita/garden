@@ -13,3 +13,4 @@ title: reading list
 - [ ] The Good and Evil Serpent - James H Charlesworth
 - [ ] Once Upon an Algorithm - Martin Erwig
 - [ ] The Strange Case of Dr. Jekyll and Mr. Hyde - Robert Louis Stevenson ([[ hobbies/writing/exercises/5-min/my devil had been long caged | writing exercise]])
+- [ ] Cloud Cuckoo Land - Anthony Doerr ([[ hobbies/writing/exercises/5-min/suffering can look beautiful if you get far enough away | writing exercise]])
