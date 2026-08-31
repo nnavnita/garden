@@ -4,7 +4,7 @@ date: 2026-04-25
 ---
 
 # The Faithful Gardener
-## [[ hobbies/reading/reading list | Women Who Run with the Wolves: Myths and Stories of the Wild Woman Archetype - Clarissa Pinkola Estés]]
+## [[ bobs/reading/reading list | Women Who Run with the Wolves: Myths and Stories of the Wild Woman Archetype - Clarissa Pinkola Estés]]
 
 The faithful gardener nurtures even those that do not beg for attention, those who toil away in the sun and rain without complaint, or need for praise, those that want to be independent and live on their terms and grow their own branches to tell their own story.
 

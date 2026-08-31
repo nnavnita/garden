@@ -4,7 +4,7 @@ date: 2026-08-30
 ---
 
 # Suffering can look Beautiful if you get Far enough Away
-## [[ hobbies/reading/reading list | Cloud Cuckoo Land - Anthony Doerr]]
+## [[ bobs/reading/reading list | Cloud Cuckoo Land - Anthony Doerr]]
 
 This is exactly the conclusion I came to yesterday while watching a video about the best preserved mummy to date -- that of a frozen Inca maiden buried atop a volcano over 500 years ago. Throughout the video, the scientists talked of and treated her as a unique and fascinating specimen -- keeping her on display in a museum for short periods before returning her to a cryogenic chamber to prolong her preservation. But she isn't the skeletons I'm used to seeing treated this way, because she is so well preserved, she looks almost _asleep_.
 
