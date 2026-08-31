@@ -1,3 +1,8 @@
+---
+title: sambar
+date: 2020-10-01
+---
+
 # Sambar
 
 ## Ingredients

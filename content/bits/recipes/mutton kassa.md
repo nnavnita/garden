@@ -1,3 +1,8 @@
+---
+title: mutton kassa
+date: 2021-09-06
+---
+
 # Mutton Kassa
 
 ## Ingredients

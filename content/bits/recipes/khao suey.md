@@ -1,3 +1,8 @@
+---
+title: khao suey
+date: 2021-09-12
+---
+
 # Khao Suey
 
 ## Ingredients
